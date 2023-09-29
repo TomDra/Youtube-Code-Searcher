@@ -9,3 +9,7 @@ This code was created for KSI's Laugh and give money video's e.g. https://www.yo
 This code is very messy with limited documentation.
 
 It worked for nearly all of KSI's code video's except his newest (https://www.youtube.com/watch?v=NBXcEO6t2Ok) where he changed the way he displayed the codes and I do not have the time to update the code.
+
+
+
+This code was made in April 2022 so have no clue if it still functions, had to create a new repository as sensitive info was in the commit history of the last one
